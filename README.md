@@ -7,3 +7,8 @@ Analysing the FBI Crime data from the year 2017-2018.
 Checkpoint 1:
 
 Data visualization using various types of graphs to acquire some insights and correlation between the different states of the United States of America and the number of crimes/crime rates across 2017-18.
+
+
+Checkpoint 2:
+
+Understanding the type of Data distribution and Hypothesis Testing.
